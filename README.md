@@ -33,10 +33,20 @@
 |---------|-----------|-------|
 | [**Exam-Monitoring-System**](https://github.com/GOKUL-AI-tech/Exam-Monitoring-System) | AI-based online exam proctoring: real-time face, gaze and head-pose analysis with admin, staff and student dashboards | React · Node.js · FastAPI · MediaPipe · PostgreSQL · Docker |
 | [**Generative-AI-Experiments**](https://github.com/GOKUL-AI-tech/Generative-AI-Experiments) | GPT-2 text generation, Stable Diffusion images, MusicGen music, Gradio UIs and a Flask chatbot API | Python · Transformers · Diffusers · Gradio |
-| [**Expanse-Tracker**](https://github.com/GOKUL-AI-tech/Expanse-Tracker) | Personal-finance app with budgets, savings goals, analytics and PDF/CSV/Excel reports | Flutter · Supabase · Riverpod |
-| [**e-content-management-system**](https://github.com/GOKUL-AI-tech/e-content-management-system) | E-Content and E-Tutorial portal for college students, faculty and admins | React · Vite · Node/Express · MySQL |
+| [**employee-attrition-system**](https://github.com/GOKUL-AI-tech/employee-attrition-system) | AttritionIQ: AI-powered employee attrition prediction and HR analytics | React · Flask · scikit-learn |
+| [**codequest**](https://github.com/GOKUL-AI-tech/codequest) | Gamified coding-learning app with worlds, arena battles, guilds and an AI mentor | Flutter · Supabase · Riverpod |
+| [**gold-app**](https://github.com/GOKUL-AI-tech/gold-app) | GoldVault: digital gold savings app | Flutter · Supabase · Razorpay |
+| [**aptiqr**](https://github.com/GOKUL-AI-tech/aptiqr) | Daily aptitude test app with QR-gated access and Student, Faculty and Admin roles | Flutter · Supabase |
 
-More Flutter/Supabase, Python and web projects live in private repositories, and I'm happy to walk through them on request.
+## 🧰 More Projects
+
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [**Expanse-Tracker**](https://github.com/GOKUL-AI-tech/Expanse-Tracker) | Personal-finance app with budgets, savings goals, analytics and PDF/CSV/Excel reports | Flutter · Supabase · Riverpod |
+| [**skillconnect-app**](https://github.com/GOKUL-AI-tech/skillconnect-app) | Job portal connecting students and recruiters, with applications, chat and dashboards | Flutter · Supabase |
+| [**attendance-system**](https://github.com/GOKUL-AI-tech/attendance-system) | WorkTrack: employee attendance and work monitoring with role-based dashboards | React · Node.js · MySQL · Flask |
+| [**signal-x**](https://github.com/GOKUL-AI-tech/signal-x) | Complaint management system for Nehru Arts & Science College | React · Supabase |
+| [**e-content-management-system**](https://github.com/GOKUL-AI-tech/e-content-management-system) | E-Content and E-Tutorial portal for college students, faculty and admins | React · Vite · Node/Express · MySQL |
 
 ## 📫 Let's connect
 
