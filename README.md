@@ -33,6 +33,7 @@
 |---------|-----------|-------|
 | [**Exam-Monitoring-System**](https://github.com/GOKUL-AI-tech/Exam-Monitoring-System) | AI-based online exam proctoring: real-time face, gaze and head-pose analysis with admin, staff and student dashboards | React · Node.js · FastAPI · MediaPipe · PostgreSQL · Docker |
 | [**Generative-AI-Experiments**](https://github.com/GOKUL-AI-tech/Generative-AI-Experiments) | GPT-2 text generation, Stable Diffusion images, MusicGen music, Gradio UIs and a Flask chatbot API | Python · Transformers · Diffusers · Gradio |
+| [**Multimodal-AI-Studio**](https://github.com/GOKUL-AI-tech/Multimodal-AI-Studio) | Web app with six local AI tools: chat, image generation, image analysis, speech-to-text, text-to-speech and image editing | Flask · Ollama · Stable Diffusion · Whisper |
 | [**employee-attrition-system**](https://github.com/GOKUL-AI-tech/employee-attrition-system) | AttritionIQ: AI-powered employee attrition prediction and HR analytics | React · Flask · scikit-learn |
 | [**codequest**](https://github.com/GOKUL-AI-tech/codequest) | Gamified coding-learning app with worlds, arena battles, guilds and an AI mentor | Flutter · Supabase · Riverpod |
 | [**gold-app**](https://github.com/GOKUL-AI-tech/gold-app) | GoldVault: digital gold savings app | Flutter · Supabase · Razorpay |
